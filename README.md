@@ -123,7 +123,30 @@ I am a determined individual and a passionate leader with an ambition to succeed
 
 <hr>
 
+#### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
+<p align="center">
+  <a href="korukondadedeepya2002@gmail.com" >
+    <img align="center" alt="Shourya742 | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+  
+  <a href="www.linkedin.com/in/dedeepya-k" target="_blank">
+    <img align="center" alt="Shourya742 | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+  </a> &nbsp;&nbsp;
+  
+  
+<p>
+
+<div align="center">
+  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Shourya Sharma
+</div>
+
+---
+
+Credits: [Dedeepya Korukonda](https://github.com/Dedeepya-K)
+
+Last Edited on: 16/06/2023
   
 
 
