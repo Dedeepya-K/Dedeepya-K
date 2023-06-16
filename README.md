@@ -1,4 +1,5 @@
-## Hello there <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="25">
+## Hello there <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="25">  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Welcome+to+my+Github+Profile;I+am+Dedeepya++Korukonda)](https://git.io/typing-svg)
 ## About me <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-raising-hand_1f64b-200d-2640-fe0f.png" width="25">:
 I'm a pre-final year student of Computer Science in [Gayatri Vidya Parishad College of Enginering for Women](http://www.gvpcew.ac.in/) with experience in Web Development
@@ -10,6 +11,7 @@ I am a determined individual and a passionate leader with an ambition to succeed
   
   <p align="center">
 
+    
 - **Languages**:
 
     <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://devdocs.io/c/" target="_blank" >
@@ -78,11 +80,52 @@ I am a determined individual and a passionate leader with an ambition to succeed
   </a> 
 
 
+- **Back-End Development**:
 
-- **Frameworks & Libraries** :
+  <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.postgresql.org/docs/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+         alt="PostgreSQL"
+     />
+  </a> 
+
+  <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.mongodb.com/docs/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/MongoDB%20-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+         alt="MongoDB"
+     />
+  </a> 
+  <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://hasura.io/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/Hasura%20-%23ADD8E6.svg?style=for-the-badge&logo=hasura&logoColor=white"
+         alt="Hasura"
+     />
+  </a> 
+
+
+
+- **Other Skills** :
   
   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
   <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+  
+  [![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+  [![DevOps](https://img.shields.io/badge/DevOps%20-%2300C4B4.svg?style=for-the-badge&logo=devops&logoColor=white)](https://en.wikipedia.org/wiki/DevOps)
+
+
+<hr>
+  <p align="center">
+ <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Dedeepya-K&show_icons=true&locale=en&layout=compact" alt="Dedeepya-K" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dedeepya-K&show_icons=true&locale=en" alt="Dedeepya-K" width="410" /></p>
+
+<hr>
+
+
+  
+
 
 
 <!--**Dedeepya-K/Dedeepya-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
