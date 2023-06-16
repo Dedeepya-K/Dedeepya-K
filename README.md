@@ -12,11 +12,34 @@ I am a determined individual and a passionate leader with an ambition to succeed
 
 - **Languages**:
 
-    ![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  
+    <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://devdocs.io/c/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+         alt="C"
+     />
+    </a>
+
+    <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://www.python.org/doc/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"
+         alt="Python"
+     />
+    </a>
+
+    <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://isocpp.org/std/the-standard" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+         alt="C++"
+     />
+    </a>
+
+    <a class="skill_tag" style="background-color:white; padding:10px; border-radius:10px" href="https://dev.java/" target="_blank" >
+     <img
+         src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+         alt="Java"
+     />
+    </a>
+    
 
   
 - **Front-End Development**:
