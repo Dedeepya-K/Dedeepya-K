@@ -138,15 +138,10 @@ I am a determined individual and a passionate leader with an ambition to succeed
 <p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2023 Shourya Sharma
+   Thanks for watching my profile! Have a nice day! :wink: <br/>
+  &copy; 2023 Dedeepya Korukonda
 </div>
 
----
-
-Credits: [Dedeepya Korukonda](https://github.com/Dedeepya-K)
-
-Last Edited on: 16/06/2023
   
 
 
