@@ -123,7 +123,7 @@ I am a determined individual and a passionate leader with an ambition to succeed
 
 <hr>
 
-#### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
+#### <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
   <a href="korukondadedeepya2002@gmail.com" >
