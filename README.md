@@ -123,7 +123,21 @@ I am a determined individual and a passionate leader with an ambition to succeed
 
 <hr>
 
-#### <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> 
+#### <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> Connect with me:
+<p align="center">
+<a href="https://www.linkedin.com/in/dedeepya-k/" target="_blank">
+  <img align="center" alt="Dedeepya-K | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/korukondadedeep1?hr_r=1" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+      alt="adampithewan" height="30" width="40" /></a>
+  <a href="mailto:korukondadedeepya2002@gmail.com" >
+  <img align="center" alt="Dedeepya Korukonda | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+
+ </p>
+
+
 
 <div align="center">
    Thanks for watching my profile! Have a nice day! :wink: <br/>
