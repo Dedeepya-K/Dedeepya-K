@@ -123,8 +123,9 @@ I am a determined individual and a passionate leader with an ambition to succeed
 
 <hr>
 <div align="center">
-#### <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> Connect with me:
-<p align="center">
+    <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> 
+    <h2>Connect with me:
+<p>
 <a href="https://www.linkedin.com/in/dedeepya-k/" target="_blank">
   <img align="center" alt="Dedeepya-K | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -135,6 +136,7 @@ I am a determined individual and a passionate leader with an ambition to succeed
   <img align="center" alt="Dedeepya Korukonda | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
 </p>
+    </h2>
 </div>
 
 
