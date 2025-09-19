@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Welcome+to+my+Github+Profile;I+am+Dedeepya++Korukonda)](https://git.io/typing-svg)
 ## About me <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-raising-hand_1f64b-200d-2640-fe0f.png" width="25">:
 I'm an  Computer Science undergraduate from [Gayatri Vidya Parishad College of Enginering for Women](http://www.gvpcew.ac.in/) with experience in Software Development and Machine Learning
-through multiple internships and projects. I am going to pursue Master of Artificial Intelligence and Machine Learning at the [University of Adelaide](https://www.adelaide.edu.au/) from May 26, 2025. 
+through multiple internships and projects. I am pursuing Master of Artificial Intelligence and Machine Learning at the [University of Adelaide](https://www.adelaide.edu.au/) from May 26, 2025. 
 
 I am a determined individual and a passionate leader with an ambition to succeed in any given environment.
 
