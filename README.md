@@ -37,18 +37,6 @@ My expertise spans **Computer Vision, Deep Learning, and Full-stack Development*
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-  <i><b>GitHub Stats</b></i>
-  <img src="https://media.giphy.com/media/8UHRm5oY4k4FDxq5QG/giphy.gif" width="30px" alt="GitHub-Status"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dedeepya-K&show_icons=true&locale=en&layout=compact" alt="Dedeepya-K" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Dedeepya-K&show_icons=true&locale=en" alt="Dedeepya-K" width="410" />
-</p>
-
----
 
 <div align="center">
     <img src='https://em-content.zobj.net/source/microsoft-teams/363/handshake_1f91d.png' width="50px" height="50px"> 
