@@ -1,5 +1,5 @@
 ## Hello there <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="25">  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
- This profile is a general overview. For project-specific work relevant to my resume, please follow the GitHub links listed under each project.
+#This profile is a general overview. For project-specific work relevant to my resume, please follow the GitHub links listed under each project.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Welcome+to+my+Github+Profile;I+am+Dedeepya+Korukonda)](https://git.io/typing-svg)
 
 ## About me <img src="https://em-content.zobj.net/source/microsoft-teams/363/woman-raising-hand_1f64b-200d-2640-fe0f.png" width="25">:
